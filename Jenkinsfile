@@ -9,7 +9,7 @@ pipeline {
         GITEMAIL = 'seoho38hwang@gmail.com' 
         GITWEBADD = 'https://github.com/Clear-Wisdom/jenkins_practice.git'
             // source code repository
-        GITSSHADD = 'https://github.com/Clear-Wisdom/dep.git'
+        GITSSHADD = 'git@github.com:Clear-Wisdom/dep.git'
             // manifest file repository
         GITCREDENTIAL = 'git_cre'
         
